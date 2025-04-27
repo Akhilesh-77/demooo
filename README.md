@@ -1,3 +1,32 @@
+This is a demo file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 FROM openjdk:11
 WORKDIR /Users/AKHILESH/docker
 COPY . /Users/AKHILESH/docker
